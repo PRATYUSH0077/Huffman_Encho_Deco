@@ -11,7 +11,7 @@ Project is Deployed at -> https://encodeco.vercel.app/
 ![](Encode.png)
 
 # ENCODED TEXT
-![](Encoded_text.png)
+![](Encoded_Text.png)
 
 # DECODE
 ![](Decode.png)
