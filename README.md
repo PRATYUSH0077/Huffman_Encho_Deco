@@ -1,18 +1,22 @@
 # Huffman-Compressor
 It is a Compressor ( Which compresses the text File using Huffman Encoding )
 
-<!-- Project is Deployed at -> https://huffman-compressor.herokuapp.com/ -->
+Project is Deployed at -> https://encodeco.vercel.app/
 
-<!-- # ENCODE
-![](encode.png)
+
+# HOMEPAGE
+![](HomePage.png)
+
+# ENCODE
+![](Encode.png)
 
 # ENCODED TEXT
-![](encoded_text.png)
+![](Encoded_text.png)
 
 # DECODE
-![](decode.png)
+![](Decode.png)
 
 # DECODED TEXT
-![](decoded_text.png) -->
+![](Decoded_text.png)
 
 
