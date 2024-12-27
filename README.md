@@ -3,7 +3,7 @@ It is a Compressor ( Which compresses the text File using Huffman Encoding )
 
 <!-- Project is Deployed at -> https://huffman-compressor.herokuapp.com/ -->
 
-# ENCODE
+<!-- # ENCODE
 ![](encode.png)
 
 # ENCODED TEXT
@@ -13,6 +13,6 @@ It is a Compressor ( Which compresses the text File using Huffman Encoding )
 ![](decode.png)
 
 # DECODED TEXT
-![](decoded_text.png)
+![](decoded_text.png) -->
 
 
